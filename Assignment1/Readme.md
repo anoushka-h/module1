@@ -1,1 +1,1 @@
-Assignment 1 of mudule 2
+Assignment 1 of module 2
